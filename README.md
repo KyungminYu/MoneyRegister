@@ -1,22 +1,22 @@
-## MoneyRegister
-### Diagram
-#### UseCaseDiagram 
+# MoneyRegister
+## Diagram 
+### 1. UseCaseDiagram 
 ![UseCaseDiagram](UseCaseDiagram.jpg)
-#### ClassDiagram 
+### 2. ClassDiagram 
 ![ClassDiagram](ClassDiagram.jpg)
-#### ActivityDiagram
-##### password 
+### 3. ActivityDiagram
+#### 3-1. password 
 ![ActivityDiagram_password](ActivityDiagram_password.jpg)
-##### statistics 
+#### 3-2. statistics 
 ![ActivityDiagram_statistics](ActivityDiagram_statistics.png)
-##### deposit_withdraw 
+#### 3-3. deposit_withdraw 
 ![ActivityDiagram_deposit_withdraw](ActivityDiagram_deposit_withdraw.png)
-#### SequenceDiagram
-##### DataCheck 
+### 4. SequenceDiagram
+#### 4-1. DataCheck 
 ![SequenceDiagram_DataCheck](SequenceDiagram_DataCheck.jpg) 
-##### InputOutput 
+#### 4-2. InputOutput 
 ![SequenceDiagram_InputOutput](SequenceDiagram_InputOutput.jpg) 
-##### Login 
+#### 4-3. Login 
 ![SequenceDiagram_Login](SequenceDiagram_Login.jpg) 
-#### StateChartDiagram 
+### 5. StateChartDiagram 
 ![StatechartDiagram](StatechartDiagram.jpg)
